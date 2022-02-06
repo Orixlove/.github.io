@@ -1,0 +1,76 @@
+header{
+    height:30px;
+    background-color:#455765f1;
+    opacity:0.8;
+    padding:25px;
+    position:fixed;
+    z-index:10;
+    width:1375px;
+}
+.header-container{
+ 
+}
+header h1{
+    color:whitesmoke;
+    float:left;
+    line-height:1px;
+    font-size:30px;
+    
+
+}
+header a{
+    color:whitesmoke;
+    float:left;
+    padding:0px 25px;
+    line-height:30px;
+}
+
+.top-wrapper{
+    background-image:url(1920px-Saint_Jerome_Writing-Caravaggio_\(1605-6\).jpg);
+    height:700px;
+    background-size:cover;
+    
+}
+.top-container{
+    text-align:center;
+    color:whitesmoke;
+    width:1170px;
+    margin:0px auto;
+    
+    
+    
+}
+.top-container h1{
+    display:block;
+    line-height:700px;
+}
+
+.monthlists-wrapper{
+text-align:center;
+padding:100px 50px;
+background-color:#ebf6f7;
+
+}
+.list{
+    border:2px solid #38b48b;
+}
+.list p{
+display:inline-block;
+
+}
+.book{
+    margin-bottom:20px;
+    display:inline-block;
+    width:24%;
+}
+
+
+.book a{
+    color:black;
+    display:block;
+}
+.book img{
+    width:300px;
+    padding-bottom:10px;
+    
+}
